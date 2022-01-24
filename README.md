@@ -22,6 +22,7 @@ release notes:
   * python3 -m pip install --upgrade pyperclip
   * python3 -m pip install --upgrade pynput
   * python3 -m pip install --upgrade python-dotenv
+  * python3 -m pip install --upgrade optparse
 
 # Usage
 
