@@ -27,6 +27,7 @@ release notes:
 # Usage
 
 Simply clone this repo and run `python3 run.py` <br />
+Additionaly, you can pass an --expiration | -e flag to determine the url expiration time in seconds (min 60)
 
 ---
 
